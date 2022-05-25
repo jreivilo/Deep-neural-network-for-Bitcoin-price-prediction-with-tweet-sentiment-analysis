@@ -1,5 +1,5 @@
 # Advanced-Data-Analytics
 
 Project for the course.
-\n
-to be continued...
+
+To be continued...
