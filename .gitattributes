@@ -1,3 +1,2 @@
 Report filter=lfs diff=lfs merge=lfs -text
-tweet_compound.csv filter=lfs diff=lfs merge=lfs -text
-tweets.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
